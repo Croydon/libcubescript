@@ -3,3 +3,6 @@ subprojects/libostd
 *.core
 *.so
 build/
+.idea/
+.vscode/
+tests/cmake-build-debug/
