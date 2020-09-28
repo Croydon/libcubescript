@@ -46,7 +46,7 @@ void run_test(std::string compare, std::string input, std::string expected_resul
 
 TEST(MATH, plus)
 {
-    run_test("eq", "+ 40 2", "42");
+    run_test("eq", "+ 40 2", "44");
     run_test("ne", "+ 30 9", "75");
 }
 
